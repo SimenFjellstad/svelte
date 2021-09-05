@@ -117,7 +117,7 @@ npm run dev
 <Section>
 	<h3>Contributors</h3>
 
-	<p>Svelte is free and open source software, made possible by the work of dozens of volunteers. <a href="https://github.com/sveltejs/svelte">Join us!</a></p>
+	<p>Svelte is free and open source software, made possible by the work of hundreds of volunteers. <a href="https://github.com/sveltejs/svelte">Join us!</a></p>
 
 	<Contributors/>
 </Section>
